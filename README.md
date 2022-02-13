@@ -7,17 +7,21 @@ Welcome to the Scientific Programming course. My name is Jon Carr and I am a pos
 
 The course will be in-presence in Room 139 on Tuesdays and Thursdays over the next four weeks. However, I will also open a Zoom session for people who are not able to attend in person. Nevertheless, I would encourage you all to attend the class in person because you will be able to learn a lot by talking to the people around you.
 
-Tue Feb 15, 10:00–12:00
-Thu Feb 17, 10:00–12:00
+1. Tue Feb 15, 10:00–12:00 – Core concepts
 
-Tue Feb 22, 10:00–12:00
-Thu Feb 24, 10:00–12:00
+2. Thu Feb 17, 10:00–12:00 – Abstraction
 
-Tue Mar 01, 13:00–15:00
-Thu Mar 03, 13:00–15:00
+3. Tue Feb 22, 10:00–12:00 – Handling data
 
-Tue Mar 08, 13:00–15:00
-Thu Mar 10, 13:00–14:00
+4. Thu Feb 24, 10:00–12:00 – Experiments
+
+5. Tue Mar 01, 13:00–15:00
+
+6. Thu Mar 03, 13:00–15:00
+
+7. Tue Mar 08, 13:00–15:00
+
+8. Thu Mar 10, 13:00–14:00 – Open-science and best practices
 
 Although I will do a little bit of lecturing, the class will mostly be very interactive with lots of practical exercises and independent working. It is therefore important that everyone has access to a laptop computer. I also think it's important for you to use your own daily computer (rather than a random computer in a lab) because then you can get things set up in a way that works well for you and you can use a computer that is familiar.
 
@@ -68,4 +72,4 @@ jupyter notebook
 
 If this looks a bit scary, don't worry, I can help in class.
 
-Finally, if you encounter major issues getting stuff installed, you can also use web version of Jupyter Notebook from here: https://jupyter.org/try This is not a good long-term solution, but you will at least be able to follow along with the course.
+Finally, if you encounter major issues getting stuff installed, you can also use the web version of Jupyter Notebook from here: https://jupyter.org/try This is not a good long-term solution, but you will at least be able to follow along with the course.
