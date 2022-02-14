@@ -39,13 +39,15 @@ We will start with Python, which is great general-purpose programming language. 
 
 Before attending the first class, please try to get your computer set up with a working Python installation and the Jupyter Notebook package. Sometimes it can be tricky to get things set up correctly, but I will be available to help you during the first class in case of any problems.
 
-The easiest way to install everything is to use Anaconda: https://www.anaconda.com/products/individual This is a special distribution of Python that includes a lot of the packages that are commonly used in science. Once you've installed Anaconda you should be able to run the following command in the terminal or command prompt:
+The easiest way to install everything is to use Anaconda: https://www.anaconda.com/products/individual This is a special distribution of Python that includes many scientific packages, including Jupyter Notebook. Once you've installed Anaconda you should be able to run the following command in the terminal or command prompt:
 
 ```bash
 jupyter notebook
 ```
 
-This should open a browser window with the Jupyter Notebook interface. Note that, although this looks like a website, it is actually a website running locally on your computer.
+This should open a browser window with the Jupyter Notebook interface. Note that, although this looks like a website, it is actually a website running locally on your computer. If you're still finding it difficult to open Jupyter Notebook, check this link, which shows a few different options: https://pythonforundergradengineers.com/opening-a-jupyter-notebook-on-windows.html
+
+### Alternative installation options
 
 The Anaconda distribution is quite large, so if you prefer to be more minimalist, an alternative option is to install the official "vanilla" version of Python: https://www.python.org Once this is installed, you will then need to install the Jupyter Notebook package by running this command:
 
@@ -71,5 +73,7 @@ jupyter notebook
 ````
 
 If this looks a bit scary, don't worry, I can help in class.
+
+### Last resort: Web version
 
 Finally, if you encounter major issues getting stuff installed, you can also use the web version of Jupyter Notebook from here: https://jupyter.org/try This is not a good long-term solution, but you will at least be able to follow along with the course.
