@@ -9,7 +9,7 @@ The course will be in-presence in Room 139 on Tuesdays and Thursdays over the ne
 
 Although I will do a little bit of lecturing, the class will mostly be very interactive with lots of practical exercises and independent working. It is therefore important that everyone has access to a laptop computer. I also think it's important for you to use your own daily computer (rather than a random computer in a lab) because then you can get things set up in a way that works well for you and you can use a computer that is familiar.
 
-Although this course is intended for beginners, I'm sure that you all have a diverse range of backgrounds and experiences. For some people, the pace might be too fast; for others, the pace might be too slow. I will try by best to adapt the course depending on your collective needs and interests. If you find the pace too fast, please try to do lots more practice at home; coding is a skill that takes a lot of time to develop. If you find the pace too slow, please use the time in class to dig more deeply into a particular topic.
+Although this course is intended for beginners, I'm sure that you all have a diverse range of backgrounds and experiences. For some people, the pace might be too fast; for others, the pace might be too slow. I will try my best to adapt the course depending on your collective needs and interests. If you find the pace too fast, please try to do lots more practice at home; coding is a skill that takes a lot of time to develop. If you find the pace too slow, please use the time in class to dig more deeply into a particular topic.
 
 
 ## Syllabus
@@ -20,21 +20,21 @@ We will start with Python, which is great general-purpose programming language. 
 
 At the moment, this is the schedule I have in mind:
 
-1. Tue Feb 15, 10:00–12:00 – Core concepts
+1. Tue Feb 15, 10:00–12:00 – Fundamentals
 
-2. Thu Feb 17, 10:00–12:00 – Abstraction
+2. Thu Feb 17, 10:00–12:00 – Going Abstract
 
-3. Tue Feb 22, 10:00–12:00 – Handling data
+3. Tue Feb 22, 10:00–12:00 – Good Housekeeping
 
-4. Thu Feb 24, 10:00–12:00 – Visualization
+4. Thu Feb 24, 10:00–12:00 – The Scientific Stack
 
-5. Tue Mar 01, 13:00–15:00 – Experiments
+5. Tue Mar 01, 13:00–15:00 – Building Experiments
 
 6. Thu Mar 03, 13:00–15:00 – R
 
-7. Tue Mar 08, 13:00–15:00 – Web development
+7. Tue Mar 08, 13:00–15:00 – Web Development
 
-8. Thu Mar 10, 13:00–14:00 – Open-science and best practices
+8. Thu Mar 10, 13:00–14:00 – Open-Science and Best Practices
 
 
 ## Software Installation
