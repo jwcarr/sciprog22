@@ -30,9 +30,9 @@ At the moment, this is the schedule I have in mind:
 
 5. Tue Mar 01, 13:00–15:00 – Building Experiments
 
-6. Thu Mar 03, 13:00–15:00 – R
+6. Thu Mar 03, 13:00–15:00 – Online Experiments
 
-7. Tue Mar 08, 13:00–15:00 – Web Development
+7. Tue Mar 08, 13:00–15:00 – R
 
 8. Thu Mar 10, 13:00–14:00 – Open-Science and Best Practices
 
