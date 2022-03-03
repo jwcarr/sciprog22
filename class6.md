@@ -2,7 +2,7 @@
 
 ## Class 6 – Online Experiments – 3 Mar 2022
 
-Today we're going to expand our horizons beyond Python! But we won't leave Python behind completely – we can still continue to use it to analyze the data we collect. To keep things familiar, I want to continue with the same numerosity estimation experiment that we played with in the last class. This means you can still use any Python analysis code that you wrote before – the only thing that's changing is that the experiment will now be run in the browser.
+Today we're going to expand our horizons beyond Python! But we won't leave Python behind completely – you can still use it to analyze the data you collect. To keep things familiar, we will continue with the same numerosity estimation experiment that we played with in the last class. This means you can still use any Python analysis code that you wrote before – the only thing that's changing is that the experiment will now be run in the browser.
 
 
 ## JavaScript 
@@ -82,7 +82,7 @@ If you don't already have a favorite text editor, I would recommend that you dow
 
 jsPsych is a JavaScript library for online experiments and is roughly equivalent to PsychoPy. It provides a lot the core infrastructure you need for experiments, like creating stimuli, randomizing trials, and capturing participant responses. You can read more about it here: https://www.jspsych.org jsPsych is not the only library for building online experiments, but it is increasingly becoming the standard package that people use for this purpose.
 
-Note that you don't actually need to download jsPsych. Instead, the jsPsycho library is linked in your script file and downloaded automatically by each participant when they open the experiment.
+Note that you don't actually need to download jsPsych. Instead, the jsPsych library is linked in your script file and downloaded automatically by each participant when they open the experiment.
 
 If you would like to explore jsPsych further, a good place to start is the tutorial on the jsPsych website: https://www.jspsych.org/7.1/tutorials/rt-task/ I'd also highly recommend this course from my former PhD advisor, Kenny Smith: https://kennysmithed.github.io/oels2021/ It's a little bit more focused on language experiments, but there's still lots of general advice that will apply whatever type of experiment you want to run.
 
