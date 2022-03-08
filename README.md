@@ -32,7 +32,7 @@ At the moment, this is the schedule I have in mind:
 
 6. Thu Mar 03, 13:00–15:00 – Online Experiments
 
-7. Tue Mar 08, 13:00–15:00 – R
+7. Tue Mar 08, 13:00–15:00 – Intro to R
 
 8. Thu Mar 10, 13:00–14:00 – Open-Science and Best Practices
 
